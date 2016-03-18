@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - IMPORTACIONES S.A </title>
+    <link href="~/Assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Assets/css/bootstrap-theme.min.css" rel="stylesheet" />
+    <script src="~/scripts/jquery-1.10.2.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="jumbotron">
+            <h1>Mi primer Proyecto MVC</h1>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                @Html.ActionLink("Importaciones", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                <li>@Html.ActionLink("Inicio", "Index", "Home")</li>
+                <li>@Html.ActionLink("Productos", "Index", "Productos")</li>
+                <li>@Html.ActionLink("Contacto", "Index", "Contacto")</li>
+            </ul>
+        </div>
+        <div class="row">
+            <div class="col-xs-12">
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+    <script src="~/scripts/bootstrap.min.js"></script>
+
+</body>
+</html>

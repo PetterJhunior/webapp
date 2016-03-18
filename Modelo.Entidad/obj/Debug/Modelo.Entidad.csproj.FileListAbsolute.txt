@@ -1,0 +1,5 @@
+C:\Users\Petter\Documents\Visual Studio 2015\Projects\APLICACIONES WEB ASP.NET\appAsp\aplicacionweb\PruebaWeb6\Modelo.Entidad\bin\Debug\Modelo.Entidad.dll
+C:\Users\Petter\Documents\Visual Studio 2015\Projects\APLICACIONES WEB ASP.NET\appAsp\aplicacionweb\PruebaWeb6\Modelo.Entidad\bin\Debug\Modelo.Entidad.pdb
+C:\Users\Petter\Documents\Visual Studio 2015\Projects\APLICACIONES WEB ASP.NET\appAsp\aplicacionweb\PruebaWeb6\Modelo.Entidad\obj\Debug\Modelo.Entidad.dll
+C:\Users\Petter\Documents\Visual Studio 2015\Projects\APLICACIONES WEB ASP.NET\appAsp\aplicacionweb\PruebaWeb6\Modelo.Entidad\obj\Debug\Modelo.Entidad.pdb
+C:\Users\Petter\Documents\Visual Studio 2015\Projects\APLICACIONES WEB ASP.NET\appAsp\aplicacionweb\PruebaWeb6\Modelo.Entidad\obj\Debug\Modelo.Entidad.csprojResolveAssemblyReference.cache

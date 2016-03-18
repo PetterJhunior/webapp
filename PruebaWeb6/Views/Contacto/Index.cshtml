@@ -1,0 +1,25 @@
+﻿@model List<Modelo.Entidad.Contacto>
+@{
+    ViewBag.Title = "Contacto";
+}
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <td>Correo</td>
+            <th>Comentario</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var contacto in Model)
+        {
+        <tr>
+            <th>@contacto.nombreContacto</th>
+            <th>@contacto.correoContacto</th>
+            <th>@contacto.comentarioContacto</th>
+        </tr>
+        }
+    </tbody>
+</table>
+

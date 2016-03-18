@@ -1,0 +1,7 @@
+C:\Users\Petter\Documents\Visual Studio 2015\Projects\APLICACIONES WEB ASP.NET\appAsp\aplicacionweb\PruebaWeb6\Model\bin\Debug\Model.dll
+C:\Users\Petter\Documents\Visual Studio 2015\Projects\APLICACIONES WEB ASP.NET\appAsp\aplicacionweb\PruebaWeb6\Model\bin\Debug\Model.pdb
+C:\Users\Petter\Documents\Visual Studio 2015\Projects\APLICACIONES WEB ASP.NET\appAsp\aplicacionweb\PruebaWeb6\Model\bin\Debug\Modelo.Entidad.dll
+C:\Users\Petter\Documents\Visual Studio 2015\Projects\APLICACIONES WEB ASP.NET\appAsp\aplicacionweb\PruebaWeb6\Model\bin\Debug\Modelo.Entidad.pdb
+C:\Users\Petter\Documents\Visual Studio 2015\Projects\APLICACIONES WEB ASP.NET\appAsp\aplicacionweb\PruebaWeb6\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Petter\Documents\Visual Studio 2015\Projects\APLICACIONES WEB ASP.NET\appAsp\aplicacionweb\PruebaWeb6\Model\obj\Debug\Model.dll
+C:\Users\Petter\Documents\Visual Studio 2015\Projects\APLICACIONES WEB ASP.NET\appAsp\aplicacionweb\PruebaWeb6\Model\obj\Debug\Model.pdb
