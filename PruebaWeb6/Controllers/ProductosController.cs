@@ -13,5 +13,9 @@ namespace PruebaWeb6.Controllers
         {
             return View();
         }
+        public ActionResult BuscarPorCodigo()
+        {
+            return View();
+        }
     }
 }

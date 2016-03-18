@@ -158,6 +158,10 @@
     <Content Include="Views\Productos\Index.cshtml" />
     <Content Include="Views\Categorias\Index.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Contacto\Crear.cshtml" />
+    <Content Include="Views\Contacto\Modificar.cshtml" />
+    <Content Include="Views\Contacto\Eliminar.cshtml" />
+    <Content Include="Views\Productos\BuscarPorCodigo.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -168,6 +172,7 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Assets\" />
+    <Folder Include="Images\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>

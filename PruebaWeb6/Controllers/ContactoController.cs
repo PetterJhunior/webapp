@@ -15,5 +15,17 @@ namespace PruebaWeb6.Controllers
         {
             return View(contactoDAOSql.buscarMensajes());
         }
+        public ActionResult Crear()
+        {
+            return View();
+        }
+        public ActionResult Modificar()
+        {
+            return View();
+        }
+        public  ActionResult eliminar()
+        {
+            return View();
+        }
     }
 }
